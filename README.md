@@ -22,3 +22,12 @@ Interesting Papers
 |Paper_Name|Link|
 |----------|----|
 |SpeechStrew|[SpeechStrew_by_GoogleBrain](https://github.com/SSusantAchary/AI_Resources/blob/main/Speech/Speechstew.pdf)|
+
+
+## Show your support
+Give a 🌟 if this repo helped you! 
+
+## LICENSE: 
+Free  
+
+### ✍️Note: This is a work in progress 🚧   !!! Subscribe & will keep you updated.  Stay Tuned 😊
