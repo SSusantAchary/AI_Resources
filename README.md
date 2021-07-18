@@ -7,7 +7,7 @@ Interesting Papers
 
 |Paper_Name|Link|
 |----------|----|
-|Google Practitioners' guide to MLOps|[GooglGuide_MLOPs](https://github.com/SSusantAchary/AI_Resources/blob/main/ML-Ops/Google%20Practitioners'%20guide%20to%20MLOps.pdf)|
+|Google Practitioners' guide to MLOps|[Google's_Guide_to_MlOps](https://github.com/SSusantAchary/AI_Resources/blob/main/ML-Ops/Google%20Practitioners'%20guide%20to%20MLOps.pdf)|
 
 # _Random_Reading_
 |Paper_Name|Link|
