@@ -16,7 +16,7 @@ Interesting Papers
 |Dropout A Simple Way to Prevent Neural Networks from Overfitting|[Dropout](https://github.com/SSusantAchary/AI_Resources/blob/main/Random_Reading/Dropout%20A%20Simple%20Way%20to%20Prevent%20Neural%20Networks%20from%20Overfitting.pdf)|
 |MultiView for Camera Geometry|[MCG](https://github.com/SSusantAchary/AI_Resources/blob/main/Random_Reading/Multiview%20Geometry%20for%20Camera%20Networks.pdf)|
 |Techniques for 3D Reconstruction of Indoor Environments|[3D_InDr](https://github.com/SSusantAchary/AI_Resources/blob/main/Random_Reading/Techniques%20for%203D%20Reconstruction%20of%20Indoor%20Environments.pdf)|
-|hidden-technical-debt-in-machine-learning-systems|][Tech_Debt_in_ML](https://github.com/SSusantAchary/AI_Resources/blob/main/Random_Reading/hidden-technical-debt-in-machine-learning-systems.pdf)|
+|hidden-technical-debt-in-machine-learning-systems|[Tech_Debt_in_ML](https://github.com/SSusantAchary/AI_Resources/blob/main/Random_Reading/hidden-technical-debt-in-machine-learning-systems.pdf)|
 
 # _Speech_
 |Paper_Name|Link|
