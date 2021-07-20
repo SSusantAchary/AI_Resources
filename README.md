@@ -1,7 +1,7 @@
 # AI_Resources
 Interesting Papers 
 
-<img src="https://github.com/SSusantAchary/AI_Resources/blob/main/papers.gif" width="1000">
+<img src="https://github.com/SSusantAchary/AI_Resources/blob/main/papers_v0.1.gif" width="1000">
 
 # _ML_Ops_
 
