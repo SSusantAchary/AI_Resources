@@ -4,7 +4,7 @@ Interesting Papers
 <img src="https://github.com/SSusantAchary/AI_Resources/blob/main/papers_v0.2.gif" width="1000">
 
 # _New_Additions_:
-![Alberta Plan](https://github.com/SSusantAchary/AI_Resources/blob/main/Alberta_Plan.png?raw=true "Alberta Plan to AGI")
+![Alberta Plan](https://github.com/SSusantAchary/AI_Resources/blob/main/Alberta_Plan.jpg?raw=true "Alberta Plan to AGI")
 
 
 # _ML_Ops_
