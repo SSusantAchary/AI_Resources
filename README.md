@@ -1,11 +1,10 @@
 # AI_Resources
 Interesting Papers 
 
-<img src="https://github.com/SSusantAchary/AI_Resources/blob/main/papers_v0.2.gif" width="1000">
+#<img src="https://github.com/SSusantAchary/AI_Resources/blob/main/papers_v0.2.gif" width="1000">
 
 # _New_Additions_:
-![Alberta_Plan](https://github.com/SSusantAchary/AI_Resources/blob/main/Alberta_Plan.jpg?raw=true)
-
+<img src="https://github.com/SSusantAchary/AI_Resources/blob/main/Alberta_Plan.jpg" width="1000">
 
 # _ML_Ops_
 
